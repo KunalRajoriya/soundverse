@@ -32,7 +32,7 @@ Left Panel - DNA controls with tabs, output selection, and lyrics input
 Main Area - Artist header with animated waveform and music style cards
 Global Player - Persistent audio player at the bottom
 
-Key Features
+#Key Features
 
 Collapsible panels with smooth slide animations
 Hover effects on cards with play button overlay
@@ -41,13 +41,14 @@ All transitions timed at 200-300ms for smooth feel
 Responsive grid layout
 
 
-Design Decisions
+#Design Decisions
+
 Animations: Used CSS transitions for most effects. 200ms feels responsive without being jarring.
 Audio: Went with native HTML5 Audio API instead of Howler.js. Simpler and lighter for what we need here.
 State: Just React hooks (useState, useRef). No Redux - the app isn't complex enough to need it.
 Components: Split everything into small, reusable pieces. Each component does one thing.
 
-Known Limitations
+#Known Limitations
 
 Using placeholder images and audio URLs (would replace with real assets)
 Mobile works but could use more touch optimization
@@ -55,7 +56,7 @@ Volume is mute/unmute only (no slider yet)
 Waveform rerenders every frame (fine for now, but could optimize with canvas)
 
 
-What I'd Add Next
+#What I'd Add Next
 
 Volume slider
 Crossfade between tracks
