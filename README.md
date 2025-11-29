@@ -2,7 +2,7 @@
 
 A recreation of the Soundverse DNA interface with interactive audio playback and smooth animations.
 
-**Live Demo:** https://soundverse-gold.vercel.app  
+**Live Demo:** [https://soundverse-gold.vercel.app ](https://soundverse-gold.vercel.app/) 
 **Video Walkthrough:** 
 
 ---
