@@ -12,6 +12,7 @@ A recreation of the Soundverse DNA interface with interactive audio playback and
 Clone the repository:
 
 git clone [https://github.com/KunalRajoriya77/soundverse.git](https://github.com/KunalRajoriya/soundverse)
+
 cd soundverse
 
 
