@@ -1,10 +1,10 @@
-Soundverse DNA Interface
+#Soundverse DNA Interface
 
 A recreation of the Soundverse DNA interface with interactive audio playback and smooth animations.
 Live Demo: https://soundverse-gold.vercel.app
 Video Walkthrough: 
 
-Setup & Run Locally
+#Setup & Run Locally
 
 Clone the repository:
 git clone https://github.com/KunalRajoriya77/soundverse.git
@@ -16,16 +16,16 @@ Start the development server:
 npm run dev
 
 
-Tech Stack
+#Tech Stack
 
-React - UI components
+React - UI components.
 Tailwind CSS - Styling
 HTML5 Audio API - Audio playback
 Lucide React - Icons
 Vercel - Deployment
 
 
-What I Built.-
+#What I Built.-
 The interface has three main parts:
 
 Left Panel - DNA controls with tabs, output selection, and lyrics input
