@@ -5,8 +5,9 @@ Live Demo: https://soundverse-gold.vercel.app
 Video Walkthrough: 
 
 Setup & Run Locally
+
 Clone the repository:
-bashgit clone https://github.com/KunalRajoriya77/soundverse.git
+git clone https://github.com/KunalRajoriya77/soundverse.git
 cd soundverse
 
 Install dependencies:
@@ -24,7 +25,7 @@ Lucide React - Icons
 Vercel - Deployment
 
 
-What I Built
+What I Built.-
 The interface has three main parts:
 
 Left Panel - DNA controls with tabs, output selection, and lyrics input
