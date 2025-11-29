@@ -1,20 +1,19 @@
 Soundverse DNA Interface
+
 A recreation of the Soundverse DNA interface with interactive audio playback and smooth animations.
 Live Demo: https://soundverse-gold.vercel.app
 Video Walkthrough: 
 
 Setup & Run Locally
 Clone the repository:
-bashgit clone https://github.com/KunalRajoriya77/soundverseDna.git
-cd soundverseDna
+bashgit clone https://github.com/KunalRajoriya77/soundverse.git
+cd soundverse
+
 Install dependencies:
-bashnpm install
+npm install
 Start the development server:
-bashnpm run dev
-Open http://localhost:5173 in your browser.
-For production build:
-bashnpm run build
-npm run preview
+npm run dev
+
 
 Tech Stack
 
